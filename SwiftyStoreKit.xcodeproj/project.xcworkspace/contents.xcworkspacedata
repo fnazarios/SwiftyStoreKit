@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:SwiftyStoreKit.xcodeproj">
+      location = "self:../SwiftyStoreKit/Platforms">
    </FileRef>
 </Workspace>
